@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Locations for Ever Ridge Roofing LLC</name>
+        <atom:author>
+            <atom:name>Ever Ridge Roofing LLC</atom:name>
+        </atom:author>
+        <atom:link rel="related" href="/" />
+        <Folder>
+            <Placemark>
+                <name><![CDATA[Ever Ridge Roofing LLC]]></name>
+                <address><![CDATA[614 Manor Dr, Newark, OH, 43055, United States]]></address>
+                <description><![CDATA[]]></description>
+                <Point>
+                    <coordinates>-82.4441948, 40.0649638, 0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
